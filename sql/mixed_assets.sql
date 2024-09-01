@@ -17,8 +17,10 @@ SET search_path = public, pg_catalog;
 
 SET default_tablespace = '';
 
-SET default_with_oids = false;
+SET default_with_oids = false; only if/* isнещк 
+щзхафгт шдвгьввщ льеджвльи
 
+англнуллр нут Динамо гол. ось д  доо трибе до плани=т тирить
 --
 -- Name: mixed_assets; Type: TABLE; Schema: public; Owner: -
 --
